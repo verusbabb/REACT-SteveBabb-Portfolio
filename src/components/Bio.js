@@ -11,13 +11,13 @@ function Bio() {
           src="../assets/steve.jpg"
         ></img>
         <p className="flow-text">
-          Steve Babb offers a unique blend of important skills: Know how to
-          think like an end-user and develop software and applications that
-          end-users need.
-          <br></br>
-          <br></br>Skills include business accuman, leadership, HTML, CSS,
-          Bootstrap, Materialize, JavaScript,Node.js, Express, MySQL, and
-          MongoDB.
+          Senior Executive, Critical Thinker, Full-Stack Developer who has
+          learned to view strategy and product/application development through a
+          market-informed filter to impact growth and influence critical
+          go/no-go C-level decisions. As an influencer at the forefront of
+          significant product/service/technology/brand launches, engages in
+          agenda-free curiosity to stretch innovation and product value beyond
+          previously accepted limits.
         </p>
         <div className="container modalBtn">
           <a
