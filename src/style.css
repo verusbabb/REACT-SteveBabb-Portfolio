@@ -29,13 +29,13 @@
   width: 8rem;
 }
 
-.resumeBtn a{
+.resumeBtn a {
   color: white !important;
 }
 
 .modalBtn a {
   margin-bottom: 20px !important;
-  float:inherit;
+  float: inherit;
 }
 
 .divider {
@@ -58,7 +58,7 @@
 }
 
 nav {
-  background-color:rgb(66, 84, 120);
+  background-color: rgb(66, 84, 120);
   size: cover;
 }
 
@@ -73,7 +73,6 @@ nav li a {
 
 .page-footer {
   background-color: rgb(66, 84, 120);
-  
 }
 
 .responsive-img {
@@ -90,7 +89,7 @@ nav li a {
 }
 
 .contactInfo {
-  color:white;
+  color: white;
 }
 
 .revealBtn a {
@@ -141,13 +140,13 @@ h2 span {
   border-radius: 10px;
 }
 
-#modal1 h2{
+#modal1 h2 {
   margin-top: 1rem;
   color: black;
   font-weight: 600;
 }
 
-#modal1 h4{
+#modal1 h4 {
   color: black;
   font-weight: 600;
 }
@@ -163,13 +162,13 @@ h2 span {
   .card-reveal p {
     font-size: 0.6rem;
   }
-  #modal1 h2{
+  #modal1 h2 {
     margin-top: 1rem;
     color: black;
     font-weight: 600;
     font-size: 36px;
   }
-  
+
   .item-title {
     font-size: 14px !important;
   }
@@ -178,14 +177,14 @@ h2 span {
     font-size: 12px !important;
   }
 
-  #modal1 h4{
+  #modal1 h4 {
     color: black;
     font-weight: 600;
     font-size: 24px;
   }
   .lnr {
     font-size: 36px;
-    color: rgb(66, 133, 95);;
+    color: rgb(66, 133, 95);
   }
 }
 @media only screen and (max-width: 900px) {
@@ -195,14 +194,14 @@ h2 span {
     padding-right: 10px !important;
     padding-bottom: 10px !important;
   }
-  #modal1 h2{
+  #modal1 h2 {
     margin-top: 1rem;
     color: black;
     font-weight: 600;
     font-size: 24px;
   }
-  
-  #modal1 h4{
+
+  #modal1 h4 {
     color: black;
     font-weight: 600;
     font-size: 14px;
@@ -227,14 +226,14 @@ h2 span {
     padding-right: 5px !important;
     padding-bottom: 5px !important;
   }
-  #modal1 h2{
+  #modal1 h2 {
     margin-top: 1rem;
     color: black;
     font-weight: 600;
     font-size: 24px;
   }
-  
-  #modal1 h4{
+
+  #modal1 h4 {
     color: black;
     font-weight: 600;
     font-size: 18px;
@@ -395,5 +394,3 @@ h2 span {
   line-height: 1.45em;
   color: rgb(66, 133, 95);
 }
-
-

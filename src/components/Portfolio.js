@@ -20,9 +20,11 @@ function Portfolio() {
                 />
               </div>
 
-              <div className="card-content activator">
-                <h6>Full-Stack Goal Tracker</h6>
-                <p>Hover for more information.</p>
+              <div class="card-content">
+                <span class="card-title activator grey-text text-darken-4">
+                  Full Stack App: Goal Tracker
+                  <i class="material-icons right">more_vert</i>
+                </span>
               </div>
 
               <div id="reveal" className="card-reveal">
@@ -82,9 +84,11 @@ function Portfolio() {
                 />
               </div>
 
-              <div className="card-content activator">
-                <h6>Multi-API Recipe App</h6>
-                <p>Hover for more information.</p>
+              <div class="card-content">
+                <span class="card-title activator grey-text text-darken-4">
+                  Multi-API: Pair Recipes
+                  <i class="material-icons right">more_vert</i>
+                </span>
               </div>
 
               <div className="card-reveal">
@@ -141,9 +145,11 @@ function Portfolio() {
                 />
               </div>
 
-              <div className="card-content activator">
-                <h6>API Weather</h6>
-                <p>Hover for more information.</p>
+              <div class="card-content">
+                <span class="card-title activator grey-text text-darken-4">
+                  API Weather
+                  <i class="material-icons right">more_vert</i>
+                </span>
               </div>
 
               <div className="card-reveal">
@@ -206,9 +212,11 @@ function Portfolio() {
                 />
               </div>
 
-              <div className="card-content activator">
-                <h6>Full-Stack For Burger Lovers</h6>
-                <p>Hover for more information.</p>
+              <div class="card-content">
+                <span class="card-title activator grey-text text-darken-4">
+                  MySQL: Burger-Cravings Tracker
+                  <i class="material-icons right">more_vert</i>
+                </span>
               </div>
 
               <div className="card-reveal">
@@ -263,9 +271,11 @@ function Portfolio() {
                 />
               </div>
 
-              <div className="card-content activator">
-                <h6>Node.js/CLI HTML Generator</h6>
-                <p>Hover for more information.</p>
+              <div class="card-content">
+                <span class="card-title activator grey-text text-darken-4">
+                  Node/Inquirer: Team Manager
+                  <i class="material-icons right">more_vert</i>
+                </span>
               </div>
 
               <div className="card-reveal">
@@ -324,9 +334,11 @@ function Portfolio() {
                 />
               </div>
 
-              <div className="card-content activator">
-                <h6>CLI Employee Management Tool</h6>
-                <p>Hover for more information.</p>
+              <div class="card-content">
+                <span class="card-title activator grey-text text-darken-4">
+                  Node/CLI: Employee Management
+                  <i class="material-icons right">more_vert</i>
+                </span>
               </div>
 
               <div className="card-reveal">
