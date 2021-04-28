@@ -4,6 +4,10 @@
   size: cover;
 }
 
+.flow-text {
+  font-size: 1.4rem !important;
+}
+
 .social {
   display: flex;
   flex-direction: row;
