@@ -1,0 +1,399 @@
+/* Basic element styling/adjustments to materialize defaults */
+#background {
+  background-color: white;
+  size: cover;
+}
+
+.social {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-evenly;
+}
+
+.contact {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  /* margin-left: 0 !important;
+  margin-right: 0 !important;
+  right: 0 !important;
+  left: 0 !important; */
+}
+
+.social a {
+  font-size: 36px;
+}
+
+.btn {
+  border-radius: 10px;
+  width: 8rem;
+}
+
+.resumeBtn a{
+  color: white !important;
+}
+
+.modalBtn a {
+  margin-bottom: 20px !important;
+  float:inherit;
+}
+
+.divider {
+  margin-top: 2%;
+  margin-bottom: 2%;
+  height: 5px;
+}
+
+.bio {
+  background-color: rgb(66, 84, 120);
+  size: cover;
+  margin-top: 3%;
+  border-radius: 12px;
+}
+
+.bio p {
+  margin-top: 4%;
+  color: white;
+  font-size: 1.5rem;
+}
+
+nav {
+  background-color:rgb(66, 84, 120);
+  size: cover;
+}
+
+nav li a {
+  font-size: 18px;
+}
+
+.card-content h6 {
+  text-align: center;
+  font-weight: bold;
+}
+
+.page-footer {
+  background-color: rgb(66, 84, 120);
+  
+}
+
+.responsive-img {
+  float: left;
+  margin: 2%;
+  height: 25%;
+  width: 20%;
+  border-radius: 5%;
+}
+
+.card,
+.card-image {
+  border-radius: 5% 5% 0% 0%;
+}
+
+.contactInfo {
+  color:white;
+}
+
+.revealBtn a {
+  display: flex;
+  justify-content: center;
+}
+
+.card-reveal {
+  background-color: gray;
+}
+
+.card-reveal p {
+  font-size: 0.7rem;
+}
+
+.cardBtn a {
+  display: flex;
+  justify-content: center;
+  width: auto;
+}
+
+.card-content p {
+  text-align: center;
+}
+
+.lnr {
+  font-size: 42px;
+  color: rgb(66, 133, 95);
+}
+
+.modal {
+  padding-top: 40px !important;
+  padding-left: 80px !important;
+  padding-right: 80px !important;
+  padding-bottom: 80px !important;
+}
+
+h2 span {
+  color: rgb(66, 133, 95);
+}
+
+.keyWords {
+  color: rgb(66, 133, 95);
+  font-weight: 400;
+}
+
+#modal1 {
+  border-radius: 10px;
+}
+
+#modal1 h2{
+  margin-top: 1rem;
+  color: black;
+  font-weight: 600;
+}
+
+#modal1 h4{
+  color: black;
+  font-weight: 600;
+}
+
+/* responsive styling */
+@media only screen and (max-width: 1024px) {
+  .modal {
+    padding-top: 10px !important;
+    padding-left: 5px !important;
+    padding-right: 5px !important;
+    padding-bottom: 5px !important;
+  }
+  .card-reveal p {
+    font-size: 0.6rem;
+  }
+  #modal1 h2{
+    margin-top: 1rem;
+    color: black;
+    font-weight: 600;
+    font-size: 36px;
+  }
+  
+  .item-title {
+    font-size: 14px !important;
+  }
+
+  .skill h4 {
+    font-size: 12px !important;
+  }
+
+  #modal1 h4{
+    color: black;
+    font-weight: 600;
+    font-size: 24px;
+  }
+  .lnr {
+    font-size: 36px;
+    color: rgb(66, 133, 95);;
+  }
+}
+@media only screen and (max-width: 900px) {
+  .modal {
+    padding-top: 10px !important;
+    padding-left: 10px !important;
+    padding-right: 10px !important;
+    padding-bottom: 10px !important;
+  }
+  #modal1 h2{
+    margin-top: 1rem;
+    color: black;
+    font-weight: 600;
+    font-size: 24px;
+  }
+  
+  #modal1 h4{
+    color: black;
+    font-weight: 600;
+    font-size: 14px;
+  }
+
+  .item-title {
+    font-size: 12px !important;
+  }
+
+  .skill h4 {
+    font-size: 12px !important;
+  }
+  .lnr {
+    font-size: 24px;
+    color: rgb(66, 133, 95) !important;
+  }
+}
+@media only screen and (max-width: 600px) {
+  .modal {
+    padding-top: 10px !important;
+    padding-left: 5px !important;
+    padding-right: 5px !important;
+    padding-bottom: 5px !important;
+  }
+  #modal1 h2{
+    margin-top: 1rem;
+    color: black;
+    font-weight: 600;
+    font-size: 24px;
+  }
+  
+  #modal1 h4{
+    color: black;
+    font-weight: 600;
+    font-size: 18px;
+  }
+
+  .lnr {
+    font-size: 24px;
+    color: rgb(66, 133, 95);
+  }
+  .skill.clearfix h4 {
+    font-size: 12px !important;
+  }
+  .btn {
+    justify-content: center;
+  }
+  .bio p {
+    margin-top: 4%;
+    color: white;
+    font-size: 1.4rem;
+  }
+  .card-reveal p {
+    font-size: 0.75rem;
+  }
+}
+
+/* Modal skills styling */
+.skills-info.skills-second-style {
+  margin-bottom: 30px;
+}
+
+.skills-info.skills-second-style h4 {
+  font-size: 13px;
+  line-height: 1.1em;
+  position: relative;
+  float: left;
+  margin: 0 0 4px;
+}
+
+.skills-second-style .skill-container {
+  position: relative;
+  display: inline-block;
+  background-color: #fff;
+  border: 1px solid rgb(66, 84, 120);
+  -moz-border-radius: 8px;
+  -webkit-border-radius: 8px;
+  border-radius: 8px;
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  height: 10px;
+  margin-bottom: 8px;
+  width: 100%;
+}
+
+.skills-second-style .skill-value {
+  font-size: 11px;
+  line-height: 1.1em;
+  position: relative;
+  float: right;
+  margin: 0 0 4px;
+  color: #aaa;
+}
+
+.skills-second-style .skill-percentage {
+  background-color: rgb(66, 133, 95);
+  border: 2px solid #fff;
+  -moz-border-radius: 9px;
+  -webkit-border-radius: 9px;
+  border-radius: 9px;
+  height: 8px;
+  padding: 0;
+}
+
+/* --- Modal skills values...extras for when new skills develop --- */
+.skills-second-style .skill-container.skill-1 .skill-percentage {
+  width: 95%;
+}
+
+.skills-second-style .skill-container.skill-2 .skill-percentage {
+  width: 90%;
+}
+
+.skills-second-style .skill-container.skill-3 .skill-percentage {
+  width: 90%;
+}
+
+.skills-second-style .skill-container.skill-4 .skill-percentage {
+  width: 80%;
+}
+
+.skills-second-style .skill-container.skill-5 .skill-percentage {
+  width: 50%;
+}
+
+.skills-second-style .skill-container.skill-6 .skill-percentage {
+  width: 20%;
+}
+
+.skills-second-style .skill-container.skill-7 .skill-percentage {
+  width: 100%;
+}
+
+.skills-second-style .skill-container.skill-8 .skill-percentage {
+  width: 75%;
+}
+
+.skills-second-style .skill-container.skill-9 .skill-percentage {
+  width: 90%;
+}
+
+/* Modal education styling */
+.timeline-second-style .timeline-item {
+  position: relative;
+  display: table;
+  table-layout: fixed;
+  width: 100%;
+  padding-bottom: 15px;
+}
+
+.timeline-second-style .right-part {
+  width: 70%;
+  display: table-cell;
+  padding-left: 25px;
+  padding-right: 15px;
+  vertical-align: top;
+}
+
+.timeline-second-style .right-part p,
+.timeline-second-style .right-part p > * {
+  font-size: 0.92em;
+}
+
+.timeline-second-style .divider {
+  position: absolute;
+  top: 0;
+  left: 30%;
+  bottom: 0;
+  width: 1px;
+  background-color: #eee;
+}
+
+.timeline-second-style .item-title {
+  font-size: 16px;
+  margin-bottom: 3px;
+}
+
+.timeline-second-style .item-period {
+  margin: 3px 0;
+  font-size: 14px;
+  line-height: 1.4em;
+}
+
+.timeline-second-style .item-company {
+  display: block;
+  margin: 0 0 4px;
+  font-size: 13px;
+  font-weight: 800;
+  line-height: 1.45em;
+  color: rgb(66, 133, 95);
+}
+
+
