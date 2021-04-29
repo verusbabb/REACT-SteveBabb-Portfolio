@@ -266,41 +266,38 @@ function Portfolio() {
               <div className="card-image waves-effect waves-block waves-light">
                 <img
                   className="activator"
-                  src="assets/team_manager.png"
-                  alt="team manager app screenshot"
+                  src="assets/employee_directory.png"
+                  alt="employee directory screenshot"
                 />
               </div>
 
               <div class="card-content">
                 <span class="card-title activator grey-text text-darken-4">
-                  Node/Inquirer: Team Manager
+                  REACT, API: Sort & Search Directory
                   <i class="material-icons right">more_vert</i>
                 </span>
               </div>
 
               <div className="card-reveal">
                 <span className="card-title grey-text text-darken-4">
-                  Team Manager<i className="material-icons right">close</i>
+                  Sortable, Searchable Directory
+                  <i className="material-icons right">close</i>
                 </span>
                 <p>
-                  This app uses a command line interface to take input from a
-                  team manager to add employees to a developer team and generate
-                  a corresponding HTML file/page displaying team members.
+                  This app is built with React and provides users with a
+                  directory that displays basic information about all employees,
+                  including an image, name, email, and birthdate. Users are able
+                  to search for employee by first name and sort employees by
+                  either name, email, or birthday.
                 </p>
 
                 <p>
-                  The app is with Node.js, Inquirer (NPM package), JavaScript,
-                  HTML, and CSS.
-                </p>
-
-                <p>
-                  The primary emphasis of this project was to demonstrate
-                  competency in dynamically generating HTML output based upon
-                  CLI inputs.
+                  Profiles competency in REACT, API calls, and logic
+                  programming.
                 </p>
                 <div className="card-action revealBtn">
                   <a
-                    href="https://github.com/verusbabb/Team-Profile-Generator"
+                    href="https://github.com/verusbabb/Employee-Directory"
                     target="_blank"
                   >
                     <button className="btn waves-effect waves-light blue-grey">
@@ -312,11 +309,11 @@ function Portfolio() {
 
               <div className="card-action cardBtn">
                 <a
-                  href="https://github.com/verusbabb/Team-Profile-Generator"
+                  href="https://verusbabb.github.io/Employee-Directory/"
                   target="_blank"
                 >
                   <button className="btn waves-effect waves-light blue-grey">
-                    GitHub
+                    See It Live
                   </button>
                 </a>
               </div>
