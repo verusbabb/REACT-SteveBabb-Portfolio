@@ -9,7 +9,7 @@ function Bio() {
           className="responsive-img"
           alt="picture of Steve"
           id="steve"
-          src="../assets/steve.jpg"
+          src="assets/steve.jpg"
         ></img>
         <p className="flow-text">
           Senior Executive, Critical Thinker, Full-Stack Developer who has
