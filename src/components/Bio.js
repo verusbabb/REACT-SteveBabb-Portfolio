@@ -1,9 +1,10 @@
 import React from "react";
+import BioModal from "./BioModal";
 
 function Bio() {
   return (
-    <section className="row container">
-      <div className="col s12 container bio z-depth-4 ">
+    <section id="bio" className="row container ">
+      <div className="col s12 bio container z-depth-4">
         <img
           className="responsive-img"
           alt="picture of Steve"
@@ -19,14 +20,8 @@ function Bio() {
           agenda-free curiosity to stretch innovation and product value beyond
           previously accepted limits.
         </p>
-        <div className="container modalBtn">
-          <a
-            className="btn waves-effect waves-light blue-grey modal-trigger container"
-            href="#modal1"
-          >
-            More
-          </a>
-        </div>
+
+        <BioModal />
       </div>
     </section>
   );
