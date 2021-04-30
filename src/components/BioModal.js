@@ -5,6 +5,7 @@ import Skills from "./Skills";
 import Education from "./Education";
 import WhatIDo from "./WhatIDo";
 import ResumeBtn from "./ResumeBtn";
+import M from "materialize-css";
 
 const trigger = <Button>More</Button>;
 

@@ -25,7 +25,7 @@ export default function AboutMe() {
             agenda-free curiosity to stretch innovation and product value beyond
             previously accepted limits.
           </p>
-          <divider></divider>
+          {/* <divider></divider> */}
         </div>
       </div>
 

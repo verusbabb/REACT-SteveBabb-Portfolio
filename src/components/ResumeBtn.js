@@ -8,6 +8,7 @@ export default function ResumeBtn() {
           <a
             href="https://docs.google.com/document/d/1qCPQ6AscKtrMSiXpAa96HzVsM0wBza4iu7CmPKX-gdA/edit?usp=sharing"
             target="_blank"
+            rel="noreferrer"
           >
             Resume
           </a>

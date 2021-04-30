@@ -7,9 +7,9 @@ function Bio() {
       <div className="col s12 bio container z-depth-4">
         <img
           className="responsive-img"
-          alt="picture of Steve"
+          alt="Steve"
           id="steve"
-          src="assets/steve.jpg"
+          src={process.env.PUBLIC_URL + "/assets/steve.jpg"}
         ></img>
         <p className="flow-text">
           Senior Executive, Critical Thinker, Full-Stack Developer who has

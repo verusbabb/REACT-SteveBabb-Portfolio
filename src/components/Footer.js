@@ -10,16 +10,19 @@ function Footer() {
               <a
                 href="https://www.linkedin.com/in/steve-babb"
                 target="_blank"
+                rel="noreferrer"
                 className="fab fa-linkedin item-1"
               ></a>
               <a
                 href="https://www.instagram.com/verusbabb/"
                 target="_blank"
+                rel="noreferrer"
                 className="fab fa-instagram item-2"
               ></a>
               <a
                 href="https://twitter.com/verusbabb"
                 target="_blank"
+                rel="noreferrer"
                 className="fab fa-twitter item-3"
               ></a>
             </div>
@@ -38,6 +41,7 @@ function Footer() {
                     className="white-text"
                     href="https://github.com/verusbabb"
                     target="_blank"
+                    rel="noreferrer"
                   >
                     Steve Babb
                   </a>

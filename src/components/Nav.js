@@ -1,11 +1,11 @@
 import React from "react";
-import M from "materialize-css";
+// import M from "materialize-css";
 
 function Nav() {
-  document.addEventListener("DOMContentLoaded", function () {
-    var elems = document.querySelectorAll(".sidenav");
-    var instances = M.Sidenav.init(elems);
-  });
+  // document.addEventListener("DOMContentLoaded", function () {
+  //   var elems = document.querySelectorAll(".sidenav");
+  //   var instances = M.Sidenav.init(elems);
+  // });
 
   return (
     <div>
@@ -14,7 +14,7 @@ function Nav() {
           <a href="#!" className="brand-logo">
             Steve Babb
           </a>
-          <a href="#" data-target="mobile-demo" className="sidenav-trigger">
+          <a href="#!" data-target="mobile-demo" className="sidenav-trigger">
             <i className="material-icons">menu</i>
           </a>
           <ul className="right hide-on-med-and-down">
@@ -22,6 +22,7 @@ function Nav() {
               <a
                 href="https://docs.google.com/document/d/1qCPQ6AscKtrMSiXpAa96HzVsM0wBza4iu7CmPKX-gdA/edit?usp=sharing"
                 target="_blank"
+                rel="noreferrer"
               >
                 Resume
               </a>
@@ -38,6 +39,7 @@ function Nav() {
           <a
             href="https://docs.google.com/document/d/1qCPQ6AscKtrMSiXpAa96HzVsM0wBza4iu7CmPKX-gdA/edit?usp=sharing"
             target="_blank"
+            rel="noreferrer"
           >
             Resume
           </a>
