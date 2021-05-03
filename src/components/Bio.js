@@ -1,5 +1,6 @@
 import React from "react";
 import BioModal from "./BioModal";
+import ConnectModal from "./ConnectModal";
 
 function Bio() {
   return (
@@ -20,8 +21,10 @@ function Bio() {
           agenda-free curiosity to stretch innovation and product value beyond
           previously accepted limits.
         </p>
-
-        <BioModal />
+        <div className="bioBtns">
+          <BioModal />
+          <ConnectModal />
+        </div>
       </div>
     </section>
   );

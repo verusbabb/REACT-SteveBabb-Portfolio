@@ -5,9 +5,14 @@ import Skills from "./Skills";
 import Education from "./Education";
 import WhatIDo from "./WhatIDo";
 import ResumeBtn from "./ResumeBtn";
+import ConnectModal from "./ConnectModal";
 import M from "materialize-css";
 
-const trigger = <Button>More</Button>;
+const trigger = (
+  <Button className="waves-effect waves-light blue-grey moreDetails">
+    More Details
+  </Button>
+);
 
 function BioModal() {
   return (
@@ -26,7 +31,10 @@ function BioModal() {
           <Education />
         </div>
         <WhatIDo />
-        <ResumeBtn />
+        <div className="bioBtns">
+          <ResumeBtn />
+          <ConnectModal />
+        </div>
       </Modal>
     </div>
   );

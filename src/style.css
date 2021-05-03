@@ -26,17 +26,12 @@
 
 .btn {
   border-radius: 10px;
-  width: 8rem;
+  width: 10rem;
 }
 
 .resumeBtn a {
   color: white !important;
 }
-
-/* .modalBtn a {
-  margin-bottom: 20px !important;
-  float: inherit;
-} */
 
 .divider {
   margin-top: 2%;
@@ -59,7 +54,17 @@
 
 #bio button {
   margin-bottom: 1rem !important;
-  width: 10rem;
+  width: 8rem;
+}
+
+.bioBtns {
+  display: flex;
+  flex-direction: row;
+}
+
+.connect {
+  margin-left: 1.5rem;
+  padding-left: 1.2rem;
 }
 
 nav {
@@ -95,6 +100,13 @@ nav li a {
 
 .contactInfo {
   color: white;
+}
+
+.connectHeader {
+  display: flex;
+  flex-direction: row;
+  justify-content: center;
+  margin-bottom: 2rem;
 }
 
 .revealBtn a {
@@ -142,7 +154,8 @@ h2 span {
   font-weight: 400;
 }
 
-#modal1 {
+#modal1,
+#modal2 {
   border-radius: 10px;
 }
 
@@ -155,6 +168,10 @@ h2 span {
 #modal1 h4 {
   color: black;
   font-weight: 600;
+}
+#modal2 {
+  width: 40%;
+  height: 50%;
 }
 
 /* responsive styling */
@@ -179,6 +196,10 @@ h2 span {
     color: black;
     font-weight: 600;
     font-size: 24px;
+  }
+  #modal2 {
+    width: 70%;
+    height: 30%;
   }
 
   .item-title {
@@ -213,6 +234,10 @@ h2 span {
     font-weight: 600;
     font-size: 14px;
   }
+  #modal2 {
+    width: 70%;
+    height: 30%;
+  }
 
   .item-title {
     font-size: 12px !important;
@@ -233,6 +258,10 @@ h2 span {
     padding-right: 5px !important;
     padding-bottom: 5px !important;
   }
+  #modal1 {
+    width: 80%;
+    height: 50%;
+  }
   #modal1 h2 {
     margin-top: 1rem;
     color: black;
@@ -244,6 +273,13 @@ h2 span {
     color: black;
     font-weight: 600;
     font-size: 18px;
+  }
+  #modal2 {
+    width: 70%;
+    height: 40%;
+  }
+  #modal2 h4 {
+    font-size: 1.3rem;
   }
 
   .lnr {
