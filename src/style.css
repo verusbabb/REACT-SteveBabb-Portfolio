@@ -33,12 +33,6 @@
   color: white !important;
 }
 
-.divider {
-  margin-top: 2%;
-  margin-bottom: 2%;
-  height: 5px;
-}
-
 .bio {
   background-color: rgb(66, 84, 120);
   size: cover;
@@ -119,13 +113,13 @@ nav li a {
 }
 
 .card-reveal p {
-  font-size: 0.7rem;
+  font-size: 0.9rem;
 }
 
 .cardBtn a {
   display: flex;
   justify-content: center;
-  width: auto;
+  width: auto !important;
 }
 
 .card-content p {
@@ -257,6 +251,7 @@ h2 span {
     padding-left: 5px !important;
     padding-right: 5px !important;
     padding-bottom: 5px !important;
+    width: 80%;
   }
   #modal1 {
     width: 80%;
