@@ -1,11 +1,12 @@
 import React from "react";
-// import M from "materialize-css";
+import M from "materialize-css";
+// import ConnectModal from "./ConnectModal";
 
 function Nav() {
-  // document.addEventListener("DOMContentLoaded", function () {
-  //   var elems = document.querySelectorAll(".sidenav");
-  //   var instances = M.Sidenav.init(elems);
-  // });
+  document.addEventListener("DOMContentLoaded", function () {
+    var elems = document.querySelectorAll(".sidenav");
+    var instances = M.Sidenav.init(elems);
+  });
 
   return (
     <div>
@@ -27,9 +28,6 @@ function Nav() {
                 Resume
               </a>
             </li>
-            <li>
-              <a href="#connect">Connect</a>
-            </li>
           </ul>
         </div>
       </nav>
@@ -43,9 +41,6 @@ function Nav() {
           >
             Resume
           </a>
-        </li>
-        <li>
-          <a href="#connect">Connect</a>
         </li>
       </ul>
     </div>
