@@ -1,6 +1,6 @@
 # PORTFOLIO
 
-Created with REACT!  verusbabb.github.io/react-stevebabb-portfolio/
+Created with REACT!  https://verusbabb.github.io/react-stevebabb-portfolio/
 
 ![](https://github.com/verusbabb/REACT-SteveBabb-Portfolio/blob/connect/public/assets/portfolio_screenshot.png)
 
