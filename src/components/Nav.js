@@ -21,7 +21,7 @@ function Nav() {
           <ul className="right hide-on-med-and-down">
             <li>
               <a
-                href="https://docs.google.com/document/d/1qCPQ6AscKtrMSiXpAa96HzVsM0wBza4iu7CmPKX-gdA/edit?usp=sharing"
+                href="https://drive.google.com/drive/u/0/folders/1kLnh2ES3Hygp6k_N644028i3Ip6YLwdT"
                 target="_blank"
                 rel="noreferrer"
               >
