@@ -33,23 +33,25 @@ const projects = [
     You will also recognize my early work with JavaScript and Materialize CSS to bring it all together.`,
     image: "/assets/weather_dashboard.png",
     alt: "Weather Dashboard Screenshot",
-    
+
     cardBtnText: "Website",
     cardBtnLink: "https://verusbabb.github.io/Weather_Dashboard/",
     revealBtnText: "GitHub",
     revealBtnLink: "https://github.com/verusbabb/Weather_Dashboard",
   },
   {
-    longTitle: "Burger Cravings",
-    shortTitle: "Burger Cravings",
-    text: `This is plain silly. But a really effective way to track your burger cravings. This was my first full stack app. This app is built using the MVC architecture, with use of JavaScript, Express, MySQL, and Handlebars. Rather than rely on a CSS framework, I took a early crack at using all customer CSS. I've come a long way since then, but it is good baseline for showing how skills have evolved since these earlier learning days. It is currently deployed on Heroku (and I may add other craving categories one day to make it even more useful).`,
-    image: "/assets/burger_app.png",
-    alt: "Burger Cravings Screenshot",
+    longTitle: "Travel Planner",
+    shortTitle: "TRVLR",
+    text: `Plan and share all of the fun details on all your future and current trips.
+    
+    This is a full-stack app using Node, Express, React, JavaScript, Passport, public APIs, and MongoDB/Mongoose.  This app was created to help fill a gap in organizing travel plans for groups of friends and family.  `,
+    image: "/assets/TRVLR.png",
+    alt: "Traveler Screenshot",
 
     cardBtnText: "Website",
-    cardBtnLink: "https://verus-burger.herokuapp.com/",
+    cardBtnLink: "https://trvlr-trip-planner.herokuapp.com/login",
     revealBtnText: "GitHub",
-    revealBtnLink: "https://github.com/verusbabb/burger",
+    revealBtnLink: "https://github.com/verusbabb/TRVLR",
   },
 
   {
