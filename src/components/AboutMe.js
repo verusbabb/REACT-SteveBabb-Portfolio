@@ -1,6 +1,19 @@
 import React from "react";
 
 export default function AboutMe() {
+const firstParagraph = "I have launched companies, managed brands, led teams, and I am a full-stack developer.";
+
+const secondParagraph = "I have designed and executed 1000+ projects that have led to successful product development initiatives and product launches in technology, healthcare, packaged goods, and professional services.  I have worked with 100’s of different teams in 20 different countries and thrive in diverse environments.  Facing daunting challenges and quickly finding effective and successful solutions is my professional foundation.";
+
+const thirdParagraph = "My work has helped launch new operating systems, web browsers, search engines, loyalty programs, social networks, mental health services, and video games.";
+
+const fourthParagraph = "My strong emotional intelligence and communication skills are what help me quickly connect and work well with teammates and clients.  I have maintained successful client relationships with some of the best known brands in the world for 20 years.  I mentored, led (and learned from) the exact same team of people and global partners for those same 20 years. When facing challenges, large and small, my first instinct is to understand the context of the challenge.  I ask good questions, absorb details fast, connect dots, and pour that understanding into my work.";
+
+const fifthParagraph = "Becoming a full-stack developer was a natural evolution for me.  It is a combination of everything I love and excel at:  problem identification, problem solving, team work, communication, continuous learning and mentoring, fast-paced, and being agile at every turn.";
+
+const sixthParagraph = "I have been a founding board member for two successful non-profit organizations: Healing Waters International brings sustainable fresh water to communities in developing nations, and Kitchen One-for-One, which gives away an outstanding quality meal to someone in need for every meal sold (i.e. one-for-one)."
+
+
   return (
     <div>
       <div className="row">
@@ -16,14 +29,23 @@ export default function AboutMe() {
             <span className="lnr lnr-home"></span>
           </i>
           <h4>Bio Brief</h4>
-          <p>
-            Senior Executive, Critical Thinker, Full-Stack Developer who has
-            learned to view strategy and product/application development through
-            a market-informed filter to impact growth and influence critical
-            go/no-go C-level decisions. As an influencer at the forefront of
-            significant product/service/technology/brand launches, engages in
-            agenda-free curiosity to stretch innovation and product value beyond
-            previously accepted limits.
+          <p> 
+            {firstParagraph} 
+            <br></br>
+            <br></br>
+            {secondParagraph}
+            <br></br>
+            <br></br>
+            {thirdParagraph}
+            <br></br>
+            <br></br>
+            {fourthParagraph}
+            <br></br>
+            <br></br>
+            {fifthParagraph}
+            <br></br>
+            <br></br>
+            {sixthParagraph}
           </p>
           {/* <divider></divider> */}
         </div>
