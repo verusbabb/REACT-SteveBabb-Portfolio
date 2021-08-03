@@ -71,7 +71,7 @@ export default function SKills() {
           {/* Skill 7 */}
           <div className="skill clearfix">
             <h4>React</h4>
-            <div className="skill-value">60%</div>
+            <div className="skill-value">65%</div>
           </div>
           <div className="skill-container skill-7">
             <div className="skill-percentage"></div>
