@@ -5,10 +5,10 @@ export default function AboutMe() {
     "I have launched companies, managed brands, led teams, and I am a full-stack developer.";
 
   const secondParagraph =
-    "I have designed and executed 1000+ projects that have led to successful product development initiatives and product launches in technology, healthcare, packaged goods, and professional services.  I have worked with 100’s of different teams in 20 different countries and thrive in diverse environments.  Facing daunting challenges and quickly finding effective and successful solutions is my professional foundation.";
+    "I have designed and executed hundreds of programs that have led to successful product development initiatives and product launches in technology, healthcare, packaged goods, and professional services.  I have worked with 100’s of different teams in 20 different countries and thrive in diverse environments.  Facing daunting challenges and quickly finding effective and successful solutions comprise my professional foundation.";
 
   const thirdParagraph =
-    "My work has helped launch new operating systems, web browsers, search engines, loyalty programs, social networks, mental health services, and video games.";
+    "My work has helped launch new operating systems, web browsers, search engines, loyalty programs, social networks, mental health services, wireless services, and video games.";
 
   const fourthParagraph =
     "My strong emotional intelligence and communication skills are what help me quickly connect and work well with teammates and clients.  I have maintained successful client relationships with some of the best known brands in the world for 20 years.  I mentored, led (and learned from) the exact same team of people and global partners for those same 20 years. When facing challenges, large and small, my first instinct is to understand the context of the challenge.  I ask good questions, absorb details fast, connect dots, and pour that understanding into my work.";
