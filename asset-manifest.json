@@ -1,20 +1,20 @@
 {
   "files": {
-    "main.css": "/REACT-SteveBabb-Portfolio/static/css/main.d50d1c22.chunk.css",
-    "main.js": "/REACT-SteveBabb-Portfolio/static/js/main.30948b18.chunk.js",
-    "main.js.map": "/REACT-SteveBabb-Portfolio/static/js/main.30948b18.chunk.js.map",
+    "main.css": "/REACT-SteveBabb-Portfolio/static/css/main.8d8ed8e8.chunk.css",
+    "main.js": "/REACT-SteveBabb-Portfolio/static/js/main.4f3d1c73.chunk.js",
+    "main.js.map": "/REACT-SteveBabb-Portfolio/static/js/main.4f3d1c73.chunk.js.map",
     "runtime-main.js": "/REACT-SteveBabb-Portfolio/static/js/runtime-main.eee27ad0.js",
     "runtime-main.js.map": "/REACT-SteveBabb-Portfolio/static/js/runtime-main.eee27ad0.js.map",
     "static/js/2.01d28842.chunk.js": "/REACT-SteveBabb-Portfolio/static/js/2.01d28842.chunk.js",
     "static/js/2.01d28842.chunk.js.map": "/REACT-SteveBabb-Portfolio/static/js/2.01d28842.chunk.js.map",
     "index.html": "/REACT-SteveBabb-Portfolio/index.html",
-    "static/css/main.d50d1c22.chunk.css.map": "/REACT-SteveBabb-Portfolio/static/css/main.d50d1c22.chunk.css.map",
+    "static/css/main.8d8ed8e8.chunk.css.map": "/REACT-SteveBabb-Portfolio/static/css/main.8d8ed8e8.chunk.css.map",
     "static/js/2.01d28842.chunk.js.LICENSE.txt": "/REACT-SteveBabb-Portfolio/static/js/2.01d28842.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
     "static/js/runtime-main.eee27ad0.js",
     "static/js/2.01d28842.chunk.js",
-    "static/css/main.d50d1c22.chunk.css",
-    "static/js/main.30948b18.chunk.js"
+    "static/css/main.8d8ed8e8.chunk.css",
+    "static/js/main.4f3d1c73.chunk.js"
   ]
 }
