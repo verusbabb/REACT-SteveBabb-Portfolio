@@ -50,7 +50,7 @@ export default function WhatIDo() {
             <h4>Project Management</h4>
             <p>
               Steve's has 30 years experience in managing projects that range
-              from complex and globle in nature to small and short-term.
+              from complex and global in nature to small and short-term.
             </p>
           </div>
         </div>
@@ -65,7 +65,7 @@ export default function WhatIDo() {
               Steve is currently exploring options in freelance development
               working with a talented group of other developers he has assembled
               on his team OR open to joining a dynamic and exciting company as a
-              full-time employee.
+              full-time team member.
             </p>
           </div>
         </div>
