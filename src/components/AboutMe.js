@@ -17,13 +17,12 @@ export default function AboutMe() {
           </i>
           <h4>Bio Brief</h4>
           <p>
-            Senior Executive, Critical Thinker, Full-Stack Developer who has
-            learned to view strategy and product/application development through
-            a market-informed filter to impact growth and influence critical
-            go/no-go C-level decisions. As an influencer at the forefront of
-            significant product/service/technology/brand launches, engages in
+            Full-Stack Developer | Passion for Building Technology Solutions |
+            Accomplished Leader | An influencer at the forefront of significant
+            product, service, technology, and brand launches | Engages in
             agenda-free curiosity to stretch innovation and product value beyond
-            previously accepted limits.
+            previously accepted limits | Seeking Opportunity to bring Strong
+            End-User Focus to Technology Development.
           </p>
           {/* <divider></divider> */}
         </div>

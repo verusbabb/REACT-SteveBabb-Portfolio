@@ -13,13 +13,13 @@ function Bio() {
           src={process.env.PUBLIC_URL + "/assets/steve.jpg"}
         ></img>
         <p className="flow-text">
-          Senior Executive, Critical Thinker, Full-Stack Developer who has
-          learned to view strategy and product/application development through a
-          market-informed filter to impact growth and influence critical
-          go/no-go C-level decisions. As an influencer at the forefront of
-          significant product/service/technology/brand launches, engages in
-          agenda-free curiosity to stretch innovation and product value beyond
-          previously accepted limits.
+          Critical thinker, business developer, business strategist, problem
+          solver, and full-stack developer who is driven by adding significant
+          value to business innovation and growth.
+          <br></br>
+          <br></br>
+          <span>Proficiencies include:</span> HTML, JavaScript, CSS, React,
+          Node.js, Express, MongoDB, MySQL, Git.
         </p>
         <div className="bioBtns">
           <BioModal />
