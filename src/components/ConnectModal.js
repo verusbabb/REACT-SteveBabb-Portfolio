@@ -62,8 +62,8 @@ function ConnectModal() {
                     </li>
                     <li>
                       <address>
-                        <a href="mailto:steve@verusgroup.com">
-                          steve@verusgroup.com
+                        <a href="mailto:steve.babb@outlook.com">
+                          steve.babb@outlook.com
                         </a>
                       </address>
                     </li>
