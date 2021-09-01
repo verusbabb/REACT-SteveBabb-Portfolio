@@ -3,7 +3,7 @@ const projects = [
     longTitle: "TRVLR Travel Planner",
     shortTitle: "TRVLR",
     text: `TRVLR is a full-stack REACT app that lets groups of users plan travel experiences, including schedules, activity ideas, and expense tracking.  This was a collaborative team project.  All members contributed to the full-stack; my primary focus was on DB and back-end Javascript`,
-    image: "/assets/TRVLR.png",
+    image: "/assets/trvlr.png",
     alt: "Travel Planner screenshot",
 
     cardBtnText: "Website",
