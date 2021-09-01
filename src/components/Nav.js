@@ -21,7 +21,7 @@ function Nav() {
           <ul className="right hide-on-med-and-down">
             <li>
               <a
-                href="https://drive.google.com/file/d/1MegB_poTbLcLeot24FiN7MzM67C5_FCB/view?usp=sharing"
+                href="https://drive.google.com/file/d/1KqaVrCJnSKJUPxs5xyUvJgAQEyGdB7MR/view?usp=sharing"
                 target="_blank"
                 rel="noreferrer"
               >
@@ -35,7 +35,7 @@ function Nav() {
       <ul className="sidenav" id="mobile-demo">
         <li>
           <a
-            href="https://drive.google.com/file/d/1MegB_poTbLcLeot24FiN7MzM67C5_FCB/view?usp=sharing"
+            href="https://drive.google.com/file/d/1KqaVrCJnSKJUPxs5xyUvJgAQEyGdB7MR/view?usp=sharing"
             target="_blank"
             rel="noreferrer"
           >

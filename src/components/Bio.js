@@ -13,12 +13,12 @@ function Bio() {
           src={process.env.PUBLIC_URL + "/assets/steve.jpg"}
         ></img>
         <p className="flow-text">
-          Former Senior Executive, Critical Thinker, who passionately pivoted to
-          become a Full-Stack Developer in order to transition from influencing
-          application development to actually building applications. {<br></br>}{" "}
-          {<br></br>} A lifelong learner who thrives on new challenges and
-          skills development, as well as an excellent communicator, detail
-          oriented, quick to adapt, energetic, and collaborative team member.
+          A full-stack developer built on a well-developed professional skills
+          foundation that includes critical thinking, problem solving,
+          curiosity, courage, outstanding written and oral communication skills,
+          and a voracious appetite for continuous learning. Passionate about
+          coding and building applications that lead to better human and
+          business success.
         </p>
         <div className="bioBtns">
           <BioModal />
