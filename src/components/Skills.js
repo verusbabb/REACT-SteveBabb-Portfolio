@@ -17,7 +17,7 @@ export default function SKills() {
           {/* Skill 1 */}
           <div className="skill clearfix">
             <h4>JavaScript</h4>
-            <div className="skill-value">80%</div>
+            <div className="skill-value">85%</div>
           </div>
           <div className="skill-container skill-1">
             <div className="skill-percentage"></div>
@@ -26,7 +26,7 @@ export default function SKills() {
           {/* Skill 2 */}
           <div className="skill clearfix">
             <h4>HTML</h4>
-            <div className="skill-value">80%</div>
+            <div className="skill-value">85%</div>
           </div>
           <div className="skill-container skill-2">
             <div className="skill-percentage"></div>
@@ -35,7 +35,7 @@ export default function SKills() {
           {/* Skill 3 */}
           <div className="skill clearfix">
             <h4>CSS</h4>
-            <div className="skill-value">80%</div>
+            <div className="skill-value">85%</div>
           </div>
           <div className="skill-container skill-3">
             <div className="skill-percentage"></div>
@@ -44,7 +44,7 @@ export default function SKills() {
           {/* Skill 4 */}
           <div className="skill clearfix">
             <h4>Node.js</h4>
-            <div className="skill-value">75%</div>
+            <div className="skill-value">85%</div>
           </div>
           <div className="skill-container skill-4">
             <div className="skill-percentage"></div>
@@ -53,7 +53,7 @@ export default function SKills() {
           {/* Skill 5 */}
           <div className="skill clearfix">
             <h4>MySQL</h4>
-            <div className="skill-value">70%</div>
+            <div className="skill-value">80%</div>
           </div>
           <div className="skill-container skill-5">
             <div className="skill-percentage"></div>
@@ -62,7 +62,7 @@ export default function SKills() {
           {/* Skill 6 */}
           <div className="skill clearfix">
             <h4>Mongo</h4>
-            <div className="skill-value">70%</div>
+            <div className="skill-value">80%</div>
           </div>
           <div className="skill-container skill-6">
             <div className="skill-percentage"></div>

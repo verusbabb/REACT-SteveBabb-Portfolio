@@ -1,5 +1,17 @@
 const projects = [
   {
+    longTitle: "TRVLR Travel Planner",
+    shortTitle: "TRVLR",
+    text: `TRVLR is a full-stack REACT app that lets groups of users plan travel experiences, including schedules, activity ideas, and expense tracking.  This was a collaborative team project.  All members contributed to the full-stack; my primary focus was on DB and back-end Javascript`,
+    image: "/assets/TRVLR.png",
+    alt: "Travel Planner screenshot",
+
+    cardBtnText: "Website",
+    cardBtnLink: "https://trvlr-trip-planner.herokuapp.com/",
+    revealBtnText: "GitHub",
+    revealBtnLink: "https://github.com/verusbabb/TRVLR",
+  },
+  {
     longTitle: "Goal Tracker",
     shortTitle: "Goal Tracker",
     text: `Goal Tracker is an example of one of my most recent development effort. This was a team project of talented developer students working in collaboration via Git. This project was developed using Node.js, Express, Handlebars, Passport, MySql/Sequelize, Apex Charts NMP, JavaScript, and Materialize's CSS framework. It is currently deployed on Heroku and is in continuous development to add new and advanced features and functionality.`,
@@ -53,7 +65,6 @@ const projects = [
     revealBtnText: "GitHub",
     revealBtnLink: "https://github.com/verusbabb/TRVLR",
   },
-
   {
     longTitle: "Sort/Search Directory",
     shortTitle: "Sort And Search Directory",
