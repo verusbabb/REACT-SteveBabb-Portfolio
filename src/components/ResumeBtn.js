@@ -6,7 +6,7 @@ export default function ResumeBtn() {
       <div className="row">
         <button className="resumeBtn btn waves-effect waves-light blue-grey mb-4">
           <a
-            href="https://drive.google.com/file/d/1NV5LvE_7MB68IVdmWJkN9Wf9v4NihVet/view?usp=sharing"
+            href="https://drive.google.com/file/d/1KsMZKxPa6LE5-R4YokHOs163cvuZSxSb/view?usp=sharing"
             target="_blank"
             rel="noreferrer"
           >
