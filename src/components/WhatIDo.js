@@ -19,11 +19,8 @@ export default function WhatIDo() {
             <i>
               <span className="lnr lnr-store"></span>
             </i>
-            <h4>Frontend</h4>
-            <p>
-              Steve is a skilled developer in creating responsive front-end
-              designs that deliver first className user experiences.
-            </p>
+            <h4>Front-end</h4>
+            <p>Skilled in HTML5, CSS, React, and multiple CSS frameworks.</p>
           </div>
         </div>
 
@@ -32,10 +29,9 @@ export default function WhatIDo() {
             <i>
               <span className="lnr lnr-laptop-phone"></span>
             </i>
-            <h4>Backend</h4>
+            <h4>Back-end</h4>
             <p>
-              Steve is equally as strong in server side web application logic
-              and integration.
+              Skilled in Node.js, Express.js, Authentication, MongoDB, and MySQL
             </p>
           </div>
         </div>
@@ -48,10 +44,7 @@ export default function WhatIDo() {
               <span className="lnr lnr-pencil"></span>
             </i>
             <h4>Project Management</h4>
-            <p>
-              Steve's has 30 years experience in managing projects that range
-              from complex and global in nature to small and short-term.
-            </p>
+            <p>Skilled in working in and managing Agile work environments.</p>
           </div>
         </div>
 
@@ -62,10 +55,9 @@ export default function WhatIDo() {
             </i>
             <h4>Freelance or Hire</h4>
             <p>
-              Steve is currently exploring options in freelance development
-              working with a talented group of other developers he has assembled
-              on his team OR open to joining a dynamic and exciting company as a
-              full-time team member.
+              Currently exploring options in freelance/contract development OR
+              open to joining a dynamic and exciting company as a full-time team
+              member.
             </p>
           </div>
         </div>
