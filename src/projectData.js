@@ -14,7 +14,7 @@ const projects = [
   {
     longTitle: "Goal Tracker",
     shortTitle: "Goal Tracker",
-    text: `Goal Tracker is an example of one of my most recent development effort. This was a team project of talented developer students working in collaboration via Git. This project was developed using Node.js, Express, Handlebars, Passport, MySql/Sequelize, Apex Charts NMP, JavaScript, and Materialize's CSS framework. It is currently deployed on Heroku and is in continuous development to add new and advanced features and functionality.`,
+    text: `Goal Tracker is another example of a full-stack development effort. This was a team project of talented developer students working in agile collaboration via Git. This project was developed using Node.js, Express, Handlebars, Passport, MySql/Sequelize, Apex Charts NMP, JavaScript, and Materialize's CSS framework. It is currently deployed on Heroku and is in continuous development to add new and advanced features and functionality.`,
     image: "/assets/goal_tracker.png",
     alt: "goal tracker app screenshot",
 
