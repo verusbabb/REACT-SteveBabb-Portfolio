@@ -52,20 +52,6 @@ const projects = [
     revealBtnLink: "https://github.com/verusbabb/Weather_Dashboard",
   },
   {
-    longTitle: "Travel Planner",
-    shortTitle: "TRVLR",
-    text: `Plan and share all of the fun details on all your future and current trips.
-    
-    This is a full-stack app using Node, Express, React, JavaScript, Passport, public APIs, and MongoDB/Mongoose.  This app was created to help fill a gap in organizing travel plans for groups of friends and family.  `,
-    image: "/assets/TRVLR.png",
-    alt: "Traveler Screenshot",
-
-    cardBtnText: "Website",
-    cardBtnLink: "https://trvlr-trip-planner.herokuapp.com/login",
-    revealBtnText: "GitHub",
-    revealBtnLink: "https://github.com/verusbabb/TRVLR",
-  },
-  {
     longTitle: "Sort/Search Directory",
     shortTitle: "Sort And Search Directory",
     text: `This app is built with React and provides users with a directory that displays basic information about all employees, including an image, name, email, and birthdate. Users are able to search for employee by first name and sort employees by either name, email, or birthday. Profiles competency in REACT, API calls, and logic programming.`,
