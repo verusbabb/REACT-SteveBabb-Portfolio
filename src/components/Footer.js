@@ -50,9 +50,9 @@ function Footer() {
                   <address>
                     <a
                       className="contactInfo"
-                      href="mailto:steve.babb@outlook.com"
+                      href="mailto:stevebabbmail@gmail.com"
                     >
-                      steve@verusgroup.com
+                      stevebabbmail@gmail.com
                     </a>
                   </address>
                 </li>
