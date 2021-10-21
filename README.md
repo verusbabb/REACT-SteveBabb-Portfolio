@@ -18,5 +18,5 @@ This portfolio was developed using:
 - REACT
 
 ## CONNECT WITH ME
-- Email: steve.babb@outlook.com
+- Email: stevebabbmail@gmail.com
 - GitHub: https://github.com/verusbabb
