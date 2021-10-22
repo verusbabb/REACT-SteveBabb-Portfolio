@@ -64,15 +64,16 @@ const projects = [
     revealBtnLink: "https://github.com/verusbabb/Employee-Directory",
   },
   {
-    longTitle: "HR Management Tool",
-    shortTitle: "HR Management Tool",
-    text: `This is a Node.js app that uses Inquirer.  Users interact with the with the app via the terminal and can add manage data pertaining to new and existing employees.  The app prints summary tables in the terminal. Skills with Node.js, JavaScript, and MySql are highlighted in this project`,
-    image: "/assets/employee_tracker.png",
-    alt: "Employee Tracker Screenshot",
-    cardBtnText: "GitHub",
-    cardBtnLink: "https://github.com/verusbabb/employee_tracker",
+    longTitle: "Mini Apps",
+    shortTitle: "Mini Apps",
+    text: `This is an app of a growing number of mini-apps built with React.  These are mini-demonstrations of my coding with Javascript algorithms, web API's, React components, and more.  I am adding more apps to this site whenever my spare time allows.`,
+    image: "/assets/MiniApps.png",
+    alt: "Mini Apps screenshot",
+
+    cardBtnText: "Website",
+    cardBtnLink: "https://verusbabb.github.io/Mini-Apps/",
     revealBtnText: "GitHub",
-    revealBtnLink: "https://github.com/verusbabb/employee_tracker",
+    revealBtnLink: "https://github.com/verusbabb/Mini-Apps",
   },
 ];
 
